@@ -1,6 +1,6 @@
 ## Hi there I'm Lucas Adrian Rovella 👋
 
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-adrian-rovella-7057b7130) 
 
 <!--
 **lucasrovella/lucasrovella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

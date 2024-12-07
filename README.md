@@ -3,10 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-adrian-rovella-7057b7130/) 
 [![Gmail Badge](https://img.shields.io/badge/lucasrovella323@gmail.com-D14836?style=flat&for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrovella323@gmail.com) 
 
-I'm a Fullstack developer from Argentina, Buenos Aires that enjoys learning new stuff 😎
+I'm a Fullstack developer from Argentina, Buenos Aires who enjoys learning new stuff 😎
 
-
-
+📚 Right now I'm learning React and NodeJS
 
 
 Languages and Tools:
@@ -22,6 +21,12 @@ Languages and Tools:
 <img alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 <img alt="NodeJs" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" style="padding-right:10px;" />
+
+<div align="middle">
+  
+<!--![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrovella&layout=compact)-->
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrovella&show_icons=true&theme=tokyonight)
+</div>
 
 
 

@@ -8,7 +8,7 @@
 
 
 <p>
- <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1tdjF0NGVxa2lmNjAxajQ0bTg1Y2J4ejVrbG5wZGxjOWNtbGd5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3uxdGlsRcWZlC/giphy.gif" alt="me-programmming"  height="200px" width="400px"/>
+ <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1tdjF0NGVxa2lmNjAxajQ0bTg1Y2J4ejVrbG5wZGxjOWNtbGd5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3uxdGlsRcWZlC/giphy.gif" alt="me-programmming"  height="300px" width="500px"/>
  
   I'm a graduated Higher Technician at the National Technological University. I'm a developer from Argentina, Buenos Aires who enjoys learning new creative, innovative and creative projects. 
  
@@ -53,7 +53,6 @@
 <div align="center">
  
 [![Lucas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucasrovella&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucasrovella/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrovella&layout=compact&card_width=400)
 </div>
 
 
